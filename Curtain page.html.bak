@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
   </head>
-  <body style="  background-color: rgb(142, 212, 245)">
+  <body style="     background-color: rgb(142, 212, 245)">
     <div id="google_translate_element"></div>
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
@@ -29,8 +29,8 @@
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
           <h1>Magnet Shower Temp Change</h1>
-          <p>You can reachout for any questions by texting or calling
-            000-000-0000</p>
+          <img src="thumbnail_IMG_1977.jpg">
+          <a href="Towel 1.html"></a>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
@@ -38,7 +38,7 @@
         <div id="tswsideproper">
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="Curtain page.html"><b>Curtains</b></a></li>
+              <li><a href="index.html"><b>Curtains</b></a></li>
               <li><a href="myinterests.html"><b>Toiletries</b></a></li>
               <li><a href="sitemap.html"><b>Sitemap</b></a></li>
             </ul>
@@ -46,5 +46,6 @@
         </div>
       </div>
     </div>
+    
   </body>
 </html>
