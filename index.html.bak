@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
   </head>
-  <body style="    background-color: rgb(142, 212, 245)">
+  <body style="      background-color: rgb(142, 212, 245)">
     <div id="google_translate_element"></div>
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
@@ -39,7 +39,7 @@
           <div id="tswcssbuttons">
             <ul>
               <li><a href="Curtain%20page.html"><b>Curtains</b></a></li>
-              <li><a href="Toiletries page.html"><b>Toiletries</b></a></li>
+              <li><a href="Toiletries%20page.html"><b>Toiletries</b></a></li>
               <li><a href="sitemap.html"><b>Sitemap</b></a></li>
             </ul>
           </div>
