@@ -83,16 +83,18 @@ div#tswfooter {
 
 #myCurtain{
   animation-name: myCurtainAnimate;
-  animation-duration: 4s;
+  animation-duration: 1.5s;
   animation-iteration-count: infinite;
 }
 
 @keyframes myCurtainAnimate {
   0%,100%{
+    width: 200px;
     opacity: 100%;
   }
   50%{
-    opacity: 10%;
+    width: 300px;
+    opacity: 50%;
   }
 
 }
