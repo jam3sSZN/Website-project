@@ -1,8 +1,8 @@
 class Paddle{
-    constructor(x, y, vy, l, w, c) {
+    constructor(x, y, l, w, c) {
         this.x = x;
         this.y = y;
-        this.vy = vy;
+        this.vy = 0;
         this.l = l;
         this.w = w; 
         this.c = c;
