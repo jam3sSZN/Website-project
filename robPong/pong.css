@@ -5,12 +5,14 @@ body {
 h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 60px;
+    color: red;
 }
 
 #scoreboard {
     
     font-size: 40px;
     font-family:'Courier New', Courier, monospace;
+    font-style: italic;
 }
 #reset {
     cursor: pointer;
