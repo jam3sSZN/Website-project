@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
     <title>Insert web page title here</title>
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
   </head>
-  <body style="       background-color: rgb(142, 212, 245)">
+  <body style="          background-color: rgb(142, 212, 245)">
     <div id="google_translate_element"></div>
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
@@ -20,6 +20,7 @@
         } 
     </script>
     <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-    </script> <a href="https://users.wpi.edu/%7Ejdwinston/">Link</a>
+    </script> <a href="https://users.wpi.edu/%7Ejdwinston/">Homepage</a>
+    <a href="https://users.wpi.edu/%7Ejdwinston/Toiletries%20page.html">Toiletries page</a>
   </body>
 </html>

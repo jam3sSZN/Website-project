@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
   </head>
-  <body style="           background-color: rgb(142, 212, 245)">
+  <body style="            background-color: rgb(142, 212, 245)">
     <div id="google_translate_element"></div>
     <script type="text/javascript"> 
         function googleTranslateElementInit() { 
@@ -28,11 +28,13 @@
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
           <h1>Magnet Shower Temp Change</h1>
-          <img src="thumbnail_IMG_1977.jpg" style="width: 495px; height: 742px;">&nbsp;</div>
+          <img src="thumbnail_IMG_1941.jpg" alt=""><br>
+          &nbsp;</div>
         <h1>About this item</h1>
         <ul>
-          <li>100% Turkish cotton</li>
-          <li>Three piece set</li>
+          <li>100% turkish cotton </li>
+          <li>Two piece set</li>
+          <li>Maintains color after washing</li>
           <li>Avoid fabric softeners</li>
           <li>It's a great product to use in multiple settings. For example,
             they can be used in bathrooms, kitchens, gyms, or general cleaning.</li>

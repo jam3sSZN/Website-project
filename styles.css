@@ -93,8 +93,8 @@ div#tswfooter {
     opacity: 100%;
   }
   50%{
-    width: 300px;
-    opacity: 50%;
+    width: 220px;
+    opacity: 60%;
   }
 
 }
